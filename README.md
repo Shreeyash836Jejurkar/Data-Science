@@ -8,7 +8,7 @@
 * Eliminated the factors which were not strongly correlated for model creation. 
 * Created two models linear and quadratic based on observations.<br>
 
-![](/Calories%20Burned%20Prediction/images/pred.png)
+![](https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/Calories%20Burned%20Prediction/images/pred.png)
 
 
 
