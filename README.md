@@ -25,7 +25,7 @@ A webapp for automated EDA process created using Streamlit which is an open-sour
 
 ## [Project 3 : Credit Card Data Clustering](https://github.com/Shreeyash836Jejurkar/Data-Science/tree/main/CreditCard%20Data%20Clustering)
 ---
-## Overview
+### Overview
 
 * The idea was to develop a customer segmentation for defining marketing strategy.
 * The dataset contains the usage behaviour of about 8500+ active credit card holder over a 6 month period on the basis of 18 behavioral variable.
