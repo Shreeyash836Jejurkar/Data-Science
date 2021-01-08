@@ -30,6 +30,7 @@ A webapp for automated EDA process created using Streamlit which is an open-sour
 * The idea was to develop a customer segmentation for defining marketing strategy.
 * The dataset contains the usage behaviour of about 8500+ active credit card holder over a 6 month period on the basis of 18 behavioral variable.
 * K Means Algorithm used, the value of K was determined by Elbow Method and futher validated using Silhouette Score.
+* Applied Principal Component Analysis
 
 <img  height="400" src="https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/CreditCard%20Data%20Clustering/plots/3Dcluster.png">
 
