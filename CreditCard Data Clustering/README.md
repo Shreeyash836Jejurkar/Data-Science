@@ -6,6 +6,7 @@
 
 * The idea is to develop a customer segmentation for defining marketing strategy.
 * The dataset contains the usage behaviour of about 8500+ active credit card holder over a 6 month period on the basis of 18 behavioral variable.
+* Applied Principle Component Analysis.
 
 ---
 
@@ -17,6 +18,8 @@
 * Using Elbow Method the value obtained for K was about to between 7 to 8 . After using Silhouette the value of k was validated to be 8.
 
 <img width="600" height="350" src="https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/CreditCard%20Data%20Clustering/plots/cluster.png">
+
+<img width="600" height="350" src="https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/CreditCard%20Data%20Clustering/plots/pca.png">
 
 ---
 
