@@ -8,18 +8,17 @@
 * Eliminated the factors which were not strongly correlated for model creation. 
 * Created two models linear and quadratic based on observations.<br>
 
-<img  height="400" src="https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/Calories%20Burned%20Prediction/images/pred.png">
+<img  height="400" src="Calories Burned Prediction/images/pred.png">
 
 
 
-## [Project 2 : Exploratory Data Analysis WebApp](https://github.com/Shreeyash836Jejurkar/Data-Science/tree/main/Calories%20Burned%20Prediction)
+## [Project 2 : Exploratory Data Analysis WebApp](https://github.com/Shreeyash836Jejurkar/EDA-WebApp)
 ---
 ### Overview
 
-A webapp for automated EDA process created using Streamlit which is an open-source app framework for machine learning and data science
-
-
-* Live at : https://eda-streamlit-webapp.herokuapp.com/
+A webapp for automated basic EDA process created using Streamlit which is an open-source app framework for machine learning and data science.
+* Deployed on Heroku Cloud Platform
+* [Live Preview](https://github.com/Shreeyash836Jejurkar/EDA-WebApp): https://eda-streamlit-webapp.herokuapp.com/
 
 
 
@@ -32,7 +31,7 @@ A webapp for automated EDA process created using Streamlit which is an open-sour
 * K Means Algorithm used, the value of K was determined by Elbow Method and futher validated using Silhouette Score.
 * Applied Principal Component Analysis
 
-<img  height="400" src="https://github.com/Shreeyash836Jejurkar/Data-Science/blob/main/CreditCard%20Data%20Clustering/plots/3Dcluster.png">
+<img  height="400" src="CreditCard Data Clustering/plots/3Dcluster.png">
 
 
 
