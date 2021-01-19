@@ -31,7 +31,7 @@ A webapp for automated basic EDA process created using Streamlit which is an ope
 * K Means Algorithm used, the value of K was determined by Elbow Method and futher validated using Silhouette Score.
 * Applied Principal Component Analysis
 
-<img  height="400" src="CreditCard Data Clustering/plots/3Dcluster.png">
+<img  height="400" src="CreditCard Data Clustering/plots/pca.png">
 
 
 
